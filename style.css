@@ -1,0 +1,25 @@
+.col-12{
+    border-bottom: 1px solid grey;
+    padding: 10px;
+    
+}
+summary{
+    list-style-type:circle;
+    color: grey;
+}
+img{
+    float:inline-end;
+    margin-right: 10px;
+}
+.container{
+    border:1px solid black;
+    padding: 40px;
+}
+.section{
+    margin: 150px;
+}
+p{
+    color: black;
+    padding: 10px;
+    text-align: left;
+}
